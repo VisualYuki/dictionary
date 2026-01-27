@@ -1,0 +1,26 @@
+word-group: hold
+	word: hold
+	meaning: to have something in your hand or arms
+	translation: держать
+	examples:
+		he was holding a glass of wine.
+		she held the baby in her arms
+	
+	word: hold
+	meaning: to keep something in a particular position
+	translation: держать
+	examples:
+		Can you hold the door open please?
+		Hold your hand up if you know the answer.
+	
+	word: hold on
+	meaning: to wait
+	translation: ждать
+	examples:
+		hold on! i'll just check my diary.
+word-group: once
+	word: once
+	meaning: one time
+	translation: один раз
+	examples:
+		I go swimming once a week

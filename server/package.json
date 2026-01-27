@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node --transpileOnly ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/pg": "^8.16.0",
+    "@types/supertest": "^6.0.3",
+    "supertest": "^7.2.2",
+    "ts-node": "^10.9.2",
+    "vitest": "^4.0.16"
+  },
+  "dependencies": {
+    "camelcase-keys": "^10.0.1",
+    "express": "^5.2.1",
+    "pg": "^8.16.3"
+  }
+}
