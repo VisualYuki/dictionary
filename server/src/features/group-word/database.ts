@@ -1,4 +1,4 @@
-import { client } from "../../database";
+import { client } from "../../database/index.ts";
 import camelcaseKeys from "camelcase-keys";
 
 export const wordsDatabase = {

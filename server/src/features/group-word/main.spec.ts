@@ -1,6 +1,6 @@
 import { describe, it, expect, beforeEach } from "vitest";
 import request from "supertest";
-import { app } from "../../express";
+import { app } from "../../express.ts";
 
 // describe("Words", () => {
 //   beforeEach(async () => {
