@@ -1,6 +1,6 @@
 import { database } from "../../database/index.ts";
 import { schema } from "./schema.ts";
-import { GroupWord, GroupWordPayload, Id } from "./types.ts";
+import type { GroupWord, GroupWordPayload, Id } from "./types.ts";
 import { eq } from "drizzle-orm";
 
 export const db = {
