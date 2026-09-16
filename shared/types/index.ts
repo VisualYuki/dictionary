@@ -1,4 +1,4 @@
 export type GroupWord = {
-  groupWord: string;
   id: number;
+  word: string;
 };
